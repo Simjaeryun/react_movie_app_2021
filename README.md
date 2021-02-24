@@ -1,5 +1,3 @@
 # Movie App 2021
 
-React Js
-
-test test
+React JS Fundamentals Course (2021 Update!)
